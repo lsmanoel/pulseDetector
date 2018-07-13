@@ -1,0 +1,8 @@
+Added Component: Designator=J1(bnc50_5pins)
+Added Component: Designator=J2(bnc50_5pins)
+Added Component: Designator=J3(bnc50_5pins)
+Added Component: Designator=J4(bnc50_5pins)
+Added Member To Class: ClassName=mainSheet Member=Component J1 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J2 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J3 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J4 COAX-F
