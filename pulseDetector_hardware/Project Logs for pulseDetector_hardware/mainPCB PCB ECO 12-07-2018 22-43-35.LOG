@@ -1,0 +1,7 @@
+Added Component: Designator=P?(HDR2X20)
+Added Pin To Net: NetName=INPUT_1 Pin=P?-1
+Added Pin To Net: NetName=INPUT_2 Pin=P?-3
+Added Pin To Net: NetName=INPUT_3 Pin=P?-5
+Added Pin To Net: NetName=INPUT_4 Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Member To Class: ClassName=mainSheet Member=Component P? Header 20X2

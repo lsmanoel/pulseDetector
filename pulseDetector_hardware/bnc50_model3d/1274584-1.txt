@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11122012-120078";"";
+"REFERENCE";"1274584-1";"";
+"TraceParts.PartTitle";"JACK, R/A, BULKHEAD MOUNT, PCB; Mini BNC";"";
+"TraceParts.InstanceId";"10-11122012-120078BXAK6SO10P37IG38HCXB5AVN8";"";
+"DESIGN";"JACK, R/A, BULKHEAD MOUNT, PCB; Mini BNC";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TE_CONNECTIVITY:/TE_CONNECTIVITY/TE_CONNECTIVITY.200/10-11122012-120078";"";

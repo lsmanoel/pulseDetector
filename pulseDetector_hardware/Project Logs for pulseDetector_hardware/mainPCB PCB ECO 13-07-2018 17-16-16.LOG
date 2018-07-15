@@ -1,0 +1,28 @@
+Added Component: Designator=J1(bnc50_5pins)
+Added Component: Designator=J2(bnc50_5pins)
+Added Component: Designator=J3(bnc50_5pins)
+Added Component: Designator=J4(bnc50_5pins)
+Added Pin To Net: NetName=INPUT_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=INPUT_2 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=INPUT_3 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=INPUT_4 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Member To Class: ClassName=mainSheet Member=Component J1 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J2 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J3 COAX-F
+Added Member To Class: ClassName=mainSheet Member=Component J4 COAX-F
